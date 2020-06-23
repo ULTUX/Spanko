@@ -1,0 +1,5 @@
+name: Spanko
+main: pl.bullcube.Spanko.Main
+version: 1.0
+author: ULTUX
+description: Plugin pozwala tylko jednej osobie zrobic dzien.
